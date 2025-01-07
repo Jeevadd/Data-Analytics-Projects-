@@ -1,0 +1,9 @@
+--SELECT firstname ,trackid from invoice_items a left OUTER JOIN invoices b ON b.InvoiceId = a.InvoiceId LEFT OUTER JOIN customers c on c.CustomerId = b.CustomerId order by trackid DESC  limit 2;
+--SELECT *FROM PelicanStore;
+--which gender ive to max sales 
+--SELECT sum(sales) from PelicanStore where gender ='Male';
+--SELECT gender, sales from PelicanStore WHERE gender='Male';
+--SELECT sum(sales) from PelicanStore WHERE gender ='Female';
+--SELECT age ,gender,sales from PelicanStore ORDER by CAST(sales as FLOAT) DESC LIMIT 5;
+--- avg Discount given to the females 
+---SELECT AVG(discount_) AS AVERAGE_DISCOUNT ,gender from PelicanStore WHERE gender='Female';

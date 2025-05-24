@@ -45,7 +45,7 @@ Notebook: `Time_series_forecasting.ipynb`
 Applied deep learning models (LSTM/RNN) and statistical methods to forecast future trends in time-dependent data.
 
 - Languages: Python
-- Libraries:* TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+- Libraries: TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 - Tools: Jupyter Notebook, Google Colab, GitHub
 
 ## Future Work

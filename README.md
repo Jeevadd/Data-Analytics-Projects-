@@ -4,7 +4,7 @@
 ├── Computer_vision_with_TensorFlow.ipynb
 ├── Machine_Learning_Statistics.ipynb
 ├── Time_series_forecasting.ipynb
-└── README.md
+
 
 
 # Machine Learning Projects using TensorFlow and Python

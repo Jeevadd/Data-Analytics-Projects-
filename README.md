@@ -49,7 +49,4 @@ Applied deep learning models (LSTM/RNN) and statistical methods to forecast futu
 - Tools: Jupyter Notebook, Google Colab, GitHub
 
 ## Future Work
-
-- Deploy models using Flask or Streamlit
-- Add TensorFlow Lite conversion for mobile deployment
 - Expand to NLP and Reinforcement Learning notebooks

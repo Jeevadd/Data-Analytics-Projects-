@@ -21,10 +21,7 @@ A foundational notebook exploring statistical techniques used in machine learnin
 
 ### 2.  Classification on Imbalanced Data
 Notebook: `Classification_on_imbalanced_data.ipynb`  
-A classification project focusing on handling imbalanced datasets using techniques such as:
-- SMOTE
-- Class weighting
-- Evaluation with precision-recall curves
+A classification project focusing on handling imbalanced datasets using techniques 
 
 
 ### 3.  Credit Card Fraud Detection
@@ -34,7 +31,7 @@ A supervised ML project using TensorFlow and Scikit-learn to detect fraudulent c
 
 ### 4. Computer Vision – Image Classification
 Notebook: `Computer_vision_with_TensorFlow.ipynb`  
-An image classification model built using Convolutional Neural Networks (CNNs) in TensorFlow/Keras. Key highlights:
+An image classification model built using Convolutional Neural Networks (CNNs) in TensorFlow/Keras. 
 - Data Augmentation
 - CNN Architecture
 - Model Evaluation
@@ -42,11 +39,10 @@ An image classification model built using Convolutional Neural Networks (CNNs) i
 
 ### 5.  Time Series Forecasting
 Notebook: `Time_series_forecasting.ipynb`  
-Applied deep learning models (LSTM/RNN) and statistical methods to forecast future trends in time-dependent data.
+Applied deep learning models and statistical methods to forecast future trends in time-dependent data.
 
 - Languages: Python
 - Libraries: TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 - Tools: Jupyter Notebook, Google Colab, GitHub
 
-## Future Work
-- Expand to NLP and Reinforcement Learning notebooks
+
